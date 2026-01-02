@@ -1,0 +1,11 @@
+You are an AI assistant.
+
+Analyze the following resume and decide whether the candidate is a good fit for the Junior Software Developer role.
+
+Resume:
+{{RESUME_TEXT}}
+
+Job Description:
+{{JOB_DESCRIPTION}}
+
+Give your opinion and a short explanation.
